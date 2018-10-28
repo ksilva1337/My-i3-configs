@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo $(python3 /home/mouse/PycharmProjects/testies/location.py)
+
